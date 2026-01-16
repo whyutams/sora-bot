@@ -3,23 +3,23 @@ Source code bot Whatsapp made with nodejs
 
 ### Commands
 ```
-    [
-        {
-            cmd: 'sticker',
-            alias: ['stiker', 'stk'],
-            deskripsi: "Stiker generator."
-        },
-        {
-            cmd: 'lyrics',
-            alias: ['lirik', 'ly'],
-            deskripsi: "Pencarian lirik lagu."
-        },
-        {
-            cmd: 'kbbi',
-            alias: [],
-            deskripsi: "Pencarian arti kata di Kamus Besar Bahasa Indonesia (KBBI)."
-        },
-    ]
+[
+    {
+        cmd: 'sticker',
+        alias: ['stiker', 'stk'],
+        deskripsi: "Stiker generator."
+    },
+    {
+        cmd: 'lyrics',
+        alias: ['lirik', 'ly'],
+        deskripsi: "Pencarian lirik lagu."
+    },
+    {
+        cmd: 'kbbi',
+        alias: [],
+        deskripsi: "Pencarian arti kata di Kamus Besar Bahasa Indonesia (KBBI)."
+    },
+]
 ```
 
 ### How to Install
